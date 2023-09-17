@@ -23,3 +23,5 @@ Here's how it works:
 Despite its simple rules, the Game of Life can exhibit complex and fascinating behavior. It's not a game you play in the traditional sense, but rather a way to explore emergent phenomena and study the behavior of cellular automata.
 
 Many computer programs and simulations are available that allow you to create and explore patterns in the Game of Life, making it a popular subject of study in mathematics and computer science.
+
+Presentation: https://docs.google.com/presentation/d/1xz8WvZ-ehKqqAW-32z4FRR3_fhcn0XjMEt2jOGFpP-A/edit?usp=sharing
